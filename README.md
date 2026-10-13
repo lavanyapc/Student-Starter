@@ -122,3 +122,21 @@ Complete the remaining commits, merge into main, and verify a clean working tree
 
 Generated target/ files are excluded through .gitignore.
 
+7\. Git History
+
+Feature branch: feature/course-registration-validation
+
+
+
+Commits:
+
+
+
+e77e20f — Fix course capacity and credit validation
+
+2554363 — Add capacity and credit boundary tests
+
+789e1ab — Refactor Maven project and add CI Kubernetes configuration
+
+The feature branch was merged into main. The working tree was clean at final verification.
+
